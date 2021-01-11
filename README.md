@@ -1,6 +1,8 @@
-# CS554
-CS 554 Web Programming II Assignments
+# CS554 Web Programming II Labs
 
-React.js, Node, Express, Mongo, Redis, Gulp SASS
+CS 554 Web Programming II taught by Professor Patrick Hill at Stevens Institute of Technology for Spring 2020
 
-Stevens Institute of Technology
+Technologies Used - React.js, Node, Express, MongoDb, Redis, Gulp SASS, Typescript, GraphQL
+
+**Final Grade: A**
+
